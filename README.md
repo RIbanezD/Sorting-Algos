@@ -2,8 +2,6 @@
 
 Aplicación de consola en C# que implementa manualmente los algoritmos **Bubble Sort**, **Insertion Sort**, **Merge Sort** y **Quick Sort**, con un menú interactivo, generación de datos de prueba aleatorios y visualización animada de cada algoritmo mediante gráficos de barras verticales.
 
-Laboratorio 5 — Procesos y Algoritmos II — Universidad Regional de Guatemala — Segundo Semestre 2026.
-
 ## Contenido
 
 - [Cómo ejecutar](#cómo-ejecutar)
