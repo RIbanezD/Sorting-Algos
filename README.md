@@ -6,17 +6,9 @@ Laboratorio 5 — Procesos y Algoritmos II — Universidad Regional de Guatemala
 
 ## Contenido
 
-- [Requisitos](#requisitos)
 - [Cómo ejecutar](#cómo-ejecutar)
 - [Estructura del proyecto](#estructura-del-proyecto)
-- [Funcionalidades](#funcionalidades)
 - [Algoritmos implementados](#algoritmos-implementados)
-
-## Requisitos
-
-- [.NET SDK 10.0](https://dotnet.microsoft.com/download) o superior.
-- Paquete NuGet `Spectre.Console` (se restaura automáticamente con `dotnet restore` / `dotnet run`). 
-- Una terminal con soporte UTF-8, idealmente maximizada (Terminal de Windows, PowerShell, o la consola integrada de VS Code).
 
 ## Cómo ejecutar
 
@@ -56,12 +48,3 @@ AlgoritmosOrdenamiento_Ruben_Ibañez/
 | Insertion Sort | Inserta cada elemento en la parte ya ordenada |
 | Merge Sort | Divide, ordena y mezcla mitades |
 | Quick Sort | Particiona la lista alrededor de un pivote |
-
-## Autor
-
-**Ruben Ibañez**
-Carné: 2627280
-
-## Repositorio
-
-Enlace de GitHub: `github.com/RIbanezD/Sorting-Algos`
